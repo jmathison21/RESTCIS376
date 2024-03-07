@@ -21,7 +21,7 @@ GET /tweets/:id - Returns a tweet with the given id if it exists, otherwise retu
 GEt /users/:screen_name - Returns the user with the given screen_name if it exists, otherwise returns not found   
 
 Sample ids for testing:   
-311468922962587651, 311828115477372928, 311964132205268992, 311975360667459585    
+311468922962587651, 311828115477372928, 311964132205268992, 311975360667459585, 311432631726264320    
 
 Sample screen_names for testing:    
-timoreilly, MarkUry, zephoria, SarahPrevette   
+timoreilly, MarkUry, zephoria, SarahPrevette, johnmaeda  
